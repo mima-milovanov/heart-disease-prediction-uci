@@ -6,6 +6,8 @@ This repository features a complete Machine Learning (ML) pipeline designed to c
 
 Key steps include advanced data preprocessing, feature engineering through interaction terms, feature selection using Mutual Information, and the implementation of multiple classifiers, culminating in a Stacking Ensemble for optimized performance.
 
+Dataset link: https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data/data
+
 ## Technical Implementation Highlights
 
 The core logic is contained within the `mainline.py` and covers the following stages:
