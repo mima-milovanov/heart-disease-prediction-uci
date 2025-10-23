@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+data/*
+!data/README.md
+reports/*
+!reports/.gitkeep
+.DS_Store
+catboost_info/
