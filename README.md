@@ -6,13 +6,6 @@ This repository features a complete Machine Learning (ML) pipeline designed to c
 
 Key steps include advanced data preprocessing, feature engineering through interaction terms, feature selection using Mutual Information, and the implementation of multiple classifiers, culminating in a Stacking Ensemble for optimized performance.
 
-## Repository Structure
-
-The project follows a standard, reproducible structure:
-
-. ├── data/ │   └── heart_disease_uci.csv # Original dataset for classification task ├── notebooks/ │   └── heart_disease_uci_workflow.ipynb # Comprehensive EDA, initial feature development, and step-by-step model exploration ├── main.py # Core, production-ready ML pipeline script (Preprocessing, Tuning, Stacking, Evaluation) ├── requirements.txt # List of all Python dependencies └── README.md # Project documentation
-
-
 ## Technical Implementation Highlights
 
 The core logic is contained within the `mainline.py` and covers the following stages:
